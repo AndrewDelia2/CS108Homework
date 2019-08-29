@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544822603 source:/Users/andrewdelia/Desktop/CS108/Linked_List/Linked_List.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
